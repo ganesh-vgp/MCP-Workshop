@@ -25,14 +25,14 @@ pip install -r requirements.txt
 
 ### 2. Setup Local LLM:
 ```bash
+# Start Ollama server
+ollama serve
+
 # Pull a lightweight model (2GB)
 ollama pull llama3.2:3b
 
 # Or a more capable model (4GB)
 ollama pull llama3.2:7b
-
-# Start Ollama server
-ollama serve
 ```
 
 ### 3. Test Your Setup:
