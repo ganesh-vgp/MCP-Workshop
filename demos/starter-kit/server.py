@@ -82,19 +82,6 @@ async def handle_list_tools() -> List[Tool]:
     """
     return [
         # TODO: Add calculator tools here
-        # Example structure:
-        # Tool(
-        #     name="add",
-        #     description="Add two numbers",
-        #     inputSchema={
-        #         "type": "object",
-        #         "properties": {
-        #             "a": {"type": "number", "description": "First number"},
-        #             "b": {"type": "number", "description": "Second number"}
-        #         },
-        #         "required": ["a", "b"]
-        #     }
-        # ),
         
         # TODO: Add file operation tools here
     ]
