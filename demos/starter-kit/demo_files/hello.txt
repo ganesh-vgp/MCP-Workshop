@@ -1,0 +1,8 @@
+Hello, World! This is a test file for the MCP demo.
+
+You can use this file to test:
+- Reading file contents
+- Listing files
+- Serving files as resources to AI models
+
+Have fun building your MCP server! 🚀
